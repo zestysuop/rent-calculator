@@ -1,2 +1,4 @@
 # rent-calculator
-helps solve conflits !
+helps solve conflicts !
+<br>
+for hostel/flat/pg sharing
